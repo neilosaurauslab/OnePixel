@@ -8,6 +8,9 @@ dist/
 .vscode/
 .idea/
 
+# Claude settings (may contain API keys)
+.claude/
+
 # OS files
 .DS_Store
 Thumbs.db
